@@ -1,0 +1,15 @@
+1:"$Sreact.fragment"
+2:I[39756,["/namaa/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+3:I[37457,["/namaa/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+4:I[97367,["/namaa/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+8:I[97367,["/namaa/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+a:I[97367,["/namaa/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+c:I[68027,[],"default",1]
+:HL["/namaa/_next/static/chunks/2frbu2lzx3o9k.css","style"]
+7:X
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"f":[[["",{"children":["/_not-found",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/namaa/_next/static/chunks/2frbu2lzx3o9k.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/namaa/_next/static/chunks/0h2qsuyze9ds1.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","main",null,{"className":"inner-shell page-intro","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"className":"display","children":["A little off course.",["$","br",null,{}],["$","span",null,{"className":"muted","children":"Let’s get you back."}]]}],["$","p",null,{"className":"lead","lang":"ar","dir":"rtl","children":"الصفحة غير موجودة. لنعد بك إلى نماء."}],["$","div",null,{"className":"jump-links","children":[["$","a",null,{"className":"pill pill-dark","href":"/","children":"Back to NAMAA"}],["$","a",null,{"className":"pill pill-light","href":"/ar/","lang":"ar","dir":"rtl","children":"العودة إلى نماء"}]]}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],{},null,false,null]},null,false,"$7"]},null,false,null],["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"5SCqhDCTmNjsqCHosKvRX"}
+7:C
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+b:[["$","title","0",{"children":"Page not found — نماء"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}]]
